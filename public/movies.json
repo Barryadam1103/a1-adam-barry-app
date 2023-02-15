@@ -1,0 +1,35 @@
+[
+    {
+      "id":1,
+      "name":"Rush Hour 2",
+      "releaseDate":"2001-08-3",
+      "actors":"Jackie Chan, Chris Tucker, Roselyn Sánchez",
+      "poster":"https://en.wikipedia.org/wiki/Rush_Hour_2#/media/File:Rush_Hour_2_poster.png",
+      "rating":4
+    },
+    {
+      "id":2,
+      "name":"Grown Ups",
+      "releaseDate":"2010-06-25",
+      "actors":"Adam Sandler, Kevin James, Chris Rock",
+      "poster":"https://en.wikipedia.org/wiki/Grown_Ups_(film)#/media/File:Grownupsmovie.jpg",
+      "rating":5
+    },
+    {
+      "id":3,
+      "name":"Super Bad",
+      "releaseDate":"2007-08-17",
+      "actors":"Jonah Hill, Michael Cera, Seth Rogan",
+      "poster":"https://en.wikipedia.org/wiki/Superbad#/media/File:Superbad_Poster.png",
+      "rating":3
+    },
+    {
+      "id":4,
+      "name":"21 Jump Street",
+      "releaseDate":"2012-03-12",
+      "actors":"Jonah Hill, Channing Tatum, Ice Cube",
+      "poster":"https://en.wikipedia.org/wiki/21_Jump_Street_(film)#/media/File:21JumpStreetfilm.jpg",
+      "rating":5
+    }
+    
+]
