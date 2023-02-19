@@ -54,9 +54,9 @@ const AddMovie = (props) => {
                 <div>
                 <label>Choose a Movie Poster</label>
                             <select ref={moviePoster}>
-                                <option value="././Shrek_(2001_animated_feature_film).jpg">Shrek</option>
-                                {/* <option value="././Mightyducksposter.jpg">Mighty Ducks</option>
-                                <option value="../../StepbrothersMP08.jpg">Step Brothers</option> */}
+                                <option value="./Shrek_(2001_animated_feature_film).jpg">Shrek</option>
+                                <option value="./Mightyducksposter.jpg">Mighty Ducks</option>
+                                <option value="./StepbrothersMP08.jpg">Step Brothers</option>
                             </select>
                 </div>
                 <input type="submit" value="Submit" />
