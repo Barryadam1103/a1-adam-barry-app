@@ -11,8 +11,8 @@ const HomePage = (props) => {
                 <li>Release Date: {movies.releaseDate}</li>,
                 <li>Actors: {movies.actors}</li>,
                 <li>Rating: {movies.rating}</li>,
+                <button value="remove">Remove</button>,
                 <p><img src={movies.poster} alt="poster"></img></p>
-                
               ])}
             </ui>
           </>
