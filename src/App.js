@@ -5,6 +5,7 @@ import NavBar from './NavBar';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 
+
 function App() {
 
   const [movies, setMovies] = useState(null);
