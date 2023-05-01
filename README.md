@@ -1,3 +1,7 @@
+# Assignment 1 for CP3010
+We use basic react componets to create a movies react-app which allows us to add & delete movies
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
